@@ -18,3 +18,9 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=non
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#wedbaz%204
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2F%3Fed%3D2560#%20WedBaZ%205
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?encryption=none&security=none&type=ws&host=redfree8mahsang6.redfree8.ir&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#wedbaz%204
+vless://7af4f384-9207-41df-a3e2-ad0eb5663cbb@biography.com:80?encryption=none&security=none&type=xhttp&host=aw026.com&path=%2Fblog%3Fed%3D2560&mode=auto#wedbaztel
+vless://129146bf-83ca-41c7-a819-e562c06e8699@cdn.goferi.top:443?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#wedbaztel
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?encryption=none&security=none&type=ws&host=a1.ghormehsabzi.dpdns.org&path=%2F%3Fed%3D2560#wedbaztel
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#wedbaztel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#wedbaztel
+
